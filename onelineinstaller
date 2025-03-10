@@ -1,0 +1,13 @@
+To run the `screencapture-nag-remover` script from the GitHub repository in one line, you can use the following command in your Terminal (assuming you have `git` installed and are on macOS):
+
+```bash
+git clone https://github.com/luckman212/screencapture-nag-remover.git && cd screencapture-nag-remover && chmod +x screencapture-nag-remover.sh && ./screencapture-nag-remover.sh
+```
+
+This command:
+1. Clones the repository.
+2. Changes into the cloned directory.
+3. Makes the script executable.
+4. Runs the script.
+
+Note: You may need to adjust permissions or run with `sudo` depending on your system configuration, and you should review the script beforehand for safety, as it modifies system files.
